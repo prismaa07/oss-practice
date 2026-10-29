@@ -4,3 +4,4 @@
 - Country: Nepal
 - An open source project I like: VS Code, because I use it every day
 and anyone can read how it works..
+I recommend GitHub Desktop as a helpful tool for learning Git.
